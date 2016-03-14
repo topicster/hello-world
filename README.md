@@ -1,4 +1,4 @@
 # hello-world
-Tutorial repository
+Repository used in the tutorial.
 
 Testing first changes.
